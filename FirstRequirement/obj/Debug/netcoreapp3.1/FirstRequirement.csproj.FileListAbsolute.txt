@@ -1,0 +1,13 @@
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.csprojAssemblyReference.cache
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.exe
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.deps.json
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.runtimeconfig.json
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.runtimeconfig.dev.json
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.dll
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\bin\Debug\netcoreapp3.1\FirstRequirement.pdb
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.dll
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.pdb
+C:\Users\Mihai\source\repos\FirstRequirement\FirstRequirement\obj\Debug\netcoreapp3.1\FirstRequirement.genruntimeconfig.cache

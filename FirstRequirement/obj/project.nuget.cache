@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1h1Svc6Mr5m8E9a4haQ75ItsZghmPcGuQ3yuss+blsG+IZS0hHL8NMWT2dbfAvrHV/8+ZzOkHWkc00rjrxk4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mihai\\source\\repos\\FirstRequirement\\FirstRequirement\\FirstRequirement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
